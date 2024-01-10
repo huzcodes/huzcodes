@@ -6,8 +6,12 @@
 ### <div align="center">hey! I 'm Ahmed Hussain aka "huzcodes" 👋</div>  
   
 
-- 🚀Principal Software Engineer transforming ideas into elegant solutions. Passionate about coding, creating, and continuous learning. Contributor to open source projects, exploring new technologies, and problem solving enthusiast. Let's build something amazing together! 💻✨  
+- 🚀Principal Software Engineer transforming ideas into elegant solutions. Passionate about coding, creating, and continuous learning. Contributor to open source projects, exploring new technologies, and problem solving enthusiast. Let's build something amazing together! 💻✨
+
 <br/>
+
+- ❤️ I 'm in love with architecture and design patterns, the most loved one is DDD 😍
+  
 
 - ❓ Ask me about anything related to .NET Core and related technologies  
   
