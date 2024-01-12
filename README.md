@@ -63,7 +63,7 @@
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="MSSQL" height="50" /></a>  
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="MSSQL" height="60" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
