@@ -40,7 +40,9 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img style="margin: 10px" src="https://adaptivewebhosting.com/wp-content/uploads/2021/09/net-core-blazor-hosting.png" alt="Blazor" height="60" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:400/1*r9PHaS8b0YCrOnMu9tZz9g.png" alt="Blazor" height="70" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -61,6 +63,7 @@
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="MSSQL" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -78,6 +81,8 @@
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png" alt="DevOps" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="GitHub" height="50" /></a>
 </div>
 
 </td></tr></table>  
