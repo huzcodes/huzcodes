@@ -111,7 +111,7 @@
 
 
 ## Github Most Used Languages  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huz-codes&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzcodes&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
