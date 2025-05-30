@@ -6,7 +6,7 @@
 ### <div align="center">hey! I 'm Ahmed Hussain aka "huzcodes" 👋</div>  
   
 
-- 🚀Principal Software Engineer transforming ideas into elegant solutions. Passionate about coding, creating, and continuous learning. Contributor to open source projects, exploring new technologies, and problem solving enthusiast. Let's build something amazing together! 💻✨
+- 🚀 TMSE | P.S.E transforming ideas into elegant solutions. Passionate about coding, creating, and continuous learning. Contributor to open source projects, exploring new technologies, and problem solving enthusiast. Let's build something amazing together! 💻✨
 
 <br/>
 
